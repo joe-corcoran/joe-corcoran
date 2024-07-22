@@ -2,14 +2,14 @@
 
 I'm Joe, a developer & inventor working on hands-on education for WatchOS & WearOS. I have a strong interest in Augmented Reality (AR), Artificial Intelligence (AI), and personalized e-learning.
 
-### 🔭 I’m currently working on
+### ⌚️ I’m currently working on
 - Pioneering AR experiences for smartwatches
 - Improving personalized learning through AI
 
 ### 🌱 I’m currently learning
 - JavaScript, Python, and Computer Science principles at AppAcademy (Expected graduation: December 6, 2024)
 
-### 👯 I’m looking to collaborate on
+### 🌎 I’m looking to collaborate on
 - AR and AI projects for personalized learning
 - Applications for human empowerment
  - Open Source projects to contribute and learn
@@ -24,6 +24,6 @@ I'm Joe, a developer & inventor working on hands-on education for WatchOS & Wear
 - [Portfolio](https://lmtlssmedia.wixsite.com/joecorcoran-3)
 - [Email](mailto:joecorcoran.com@gmail.com)
 
-### ⚡ Fun facts
+### 🎶 Fun facts
 In my free time, I enjoy yoga, running, boxing, and making music.
 
