@@ -21,7 +21,7 @@ I'm Joe, a developer & inventor working on hands-on education for WatchOS & Wear
 
 ### 📫 How to reach me
 - [LinkedIn](https://www.linkedin.com/in/corcoranjoe/)
-- [Portfolio]((https://lmtlssmedia.wixsite.com/joecorcoran-3))
+- [Portfolio](https://lmtlssmedia.wixsite.com/joecorcoran-3)
 - [Email](mailto:joecorcoran.com@gmail.com)
 
 ### ⚡ Fun facts
