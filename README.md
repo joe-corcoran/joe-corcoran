@@ -27,4 +27,3 @@ I'm Joe, a developer & inventor working on hands-on education for WatchOS & Wear
 ### ⚡ Fun facts
 In my free time, I enjoy yoga, running, boxing, and making music.
 
----!>
