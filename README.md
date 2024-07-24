@@ -1,12 +1,10 @@
 ## Hi there 👋
 
-I'm Joe, an inventor & developer pioneering smartwatch use through hands-on education and patented technology. My work focuses on creating seamless, real-life adaptive experiences for WatchOS & WearOS.
+I'm Joe, an inventor & developer pioneering hands-on smartwatch apps. My work focuses on creating seamless, real-life adaptive experiences for WatchOS & WearOS.
 
 ### 📈 Significant Contributions
 - **Smartwatch Screen Rotation**: Issued patents for smartwatch screen rotation, adapting displays to users' real-time line of vision.
-- **Top-Chart Apps**: Developed multiple top-rated Apple Watch apps, including:
-  - **Wristruments**: An award-winning music education app for guitar, ukulele, and piano.
-  - **Align Navigation**: A top 10 navigation app enhancing driving safety with auto-aligning GPS.
+- **Top-Chart Apps**: Developed multiple top-rated & award winning Apple Watch apps.  Wristruments - a music education app for watches that teaches guitar, ukulele, and piano.  Align Navigation - a GPS app for whatches that enhances driving safety with adaptive screen rotation.
 - **Awards**:
   - AppStore Top 10 Charts for Navigation Apps since May 2024.
   - TechRadar #3 Apple Watch app for Education 2021-2024.
