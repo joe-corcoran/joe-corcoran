@@ -13,7 +13,7 @@ I'm Joe, an inventor & developer pioneering smartwatch use through hands-on educ
 - **User Base**: 50K+ users worldwide leveraging my technology for a new type of application on smartwatches.
 
 ### ⌚️ Current Projects
-- **AR Experiences for Smartwatches**: Developing new applications for watchOS/wearOS using the auto screen-rotation and adaptive screen tech.
+- **AR Experiences for Smartwatches**: Developing new applications for watchOS/wearOS using adaptive screen movement.
 - **AI-Powered Personalized Learning**: Combining smartwatch apps with OpenAI & visionOS for personalized learning experiences.
 
 ### 🌱 Learning Journey
