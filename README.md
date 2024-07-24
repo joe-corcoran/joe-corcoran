@@ -7,7 +7,9 @@ I'm Joe, an inventor & developer pioneering smartwatch use through hands-on educ
 - **Top-Chart Apps**: Developed multiple top-rated Apple Watch apps, including:
   - **Wristruments**: An award-winning music education app for guitar, ukulele, and piano.
   - **Align Navigation**: A top 10 navigation app enhancing driving safety with auto-aligning GPS.
-- **Awards**: #3 Apple Watch app for education on TechRadar for 3 consecutive years. AppStore Top 10 Charts for Navigation Apps since May 2024
+- **Awards**:
+  - *AppStore Top 10 Charts for Navigation Apps since May 2024.
+  - TechRadar #3 Apple Watch app for Education 2021-2024.
 - **User Base**: 50K+ users worldwide leveraging my technology for a new type of application on smartwatches.
 
 ### ⌚️ Current Projects
