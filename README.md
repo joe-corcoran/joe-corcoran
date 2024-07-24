@@ -15,7 +15,8 @@ I'm Joe, an inventor & developer pioneering hands-on smartwatch apps. My work fo
 - **AI-Powered Personalized Learning**: Combining smartwatch apps with OpenAI & visionOS for personalized learning experiences.
 
 ### 🌱 Learning Journey
-- **JavaScript, Python, and Computer Science principles at AppAcademy**
+- **Currently studying JavaScript, Python, and Computer Science at AppAcademy**
+- **Psychology at University of New Hampshire**
 
 ### 🌎 I’m looking to collaborate on
 - **AR & AI Projects**: Seeking partnerships in personalized learning and human empowerment.
