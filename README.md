@@ -10,7 +10,7 @@ I'm Joe, an inventor & developer pioneering hands-on smartwatch apps. My work fo
   - TechRadar #3 Apple Watch app for Education 2021-2024.
 - **User Base**: 50K+ users worldwide leveraging my technology for a new type of application on smartwatches.
 
-### ⌚️ Current Projects
+### ⌚️ Currently Exploring
 - **AR Experiences for Smartwatches**: Developing new applications for watchOS/wearOS using adaptive screen movement.
 - **AI-Powered Personalized Learning**: Combining smartwatch apps with OpenAI & visionOS for personalized learning experiences.
 
